@@ -1,5 +1,9 @@
 [My Computer]
+<<<<<<< HEAD
 My Computer = "172.23.209.186"
+=======
+My Computer = "169.254.167.25"
+>>>>>>> master
 
 [Target]
 Target = "10.44.81.2"
